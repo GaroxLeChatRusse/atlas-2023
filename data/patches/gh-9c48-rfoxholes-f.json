@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": "r/foxhole's F",
+	"description": "Despite being attacked by many streamers and bots, r/foxholegame's members never gave up and kept trying to rebuild their art until the end. The F of Foxhole is the only part of the art that made it on the finale canva.",
+	"links": {
+		"subreddit": [
+			"foxholegame"
+		],
+		"discord": [
+			"qDXQ3qYrcY"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-140,
+				-26
+			],
+			[
+				-133,
+				-26
+			],
+			[
+				-133,
+				-15
+			],
+			[
+				-140,
+				-15
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-136,
+			-20
+		]
+	}
+}
